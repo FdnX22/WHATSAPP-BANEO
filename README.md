@@ -9,7 +9,7 @@ cd WHATSAPP-BANEO
 
 chmod +x BANEO.sh
 
-./BANEO.sh This file is empty. 
+./BANEO.sh  
 
 
 
