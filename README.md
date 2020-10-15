@@ -3,13 +3,13 @@ este git funciona para banear el WhatsApp de una victima
 pero no siempre funciona el baneo por cuestiones del token  
 ----------------FUNCIONAMIENTO-----------------------
 
-git clone https://github.com/FdnX22/WHATSAPP-BANEO/new/WHATSAPP-BANEO.git
+git clone https://github.com/FdnX22/WHATSAPP-BANEO.git
 
 cd WHATSAPP-BANEO
 
 chmod +x BANEO.sh
 
-./BANEO.sh
+./BANEO.sh This file is empty. 
 
 
 
